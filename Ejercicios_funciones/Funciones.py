@@ -20,6 +20,7 @@ def sumar_lista_numeros(lista:list):
     for numero in lista:
         acumulador += numero
     return acumulador
+print(acumulador)
 
 #Función 04
 def mostrar_numero_maximo(primer_numero, segundo_numero, tercer_numero):
